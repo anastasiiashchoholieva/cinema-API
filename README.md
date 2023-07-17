@@ -1,4 +1,4 @@
-# Cinema API
+# Cinema API - CinemaFlow
 
 ***
 
